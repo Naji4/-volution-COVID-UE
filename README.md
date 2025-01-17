@@ -9,7 +9,7 @@ Ce projet analyse l'évolution des données COVID-19 dans les pays de l'Union Eu
 3. **Graphique à barres empilées** : comparaison cas confirmés/décès.
 4. **Tableau interactif** : exploration des données par pays.
 
-## STRUCTURE DU PROJET
+## Structure du projet
 Le projet est divisé en trois documents principaux :
 
 1. **datachallengeR** : Contient le code principal pour l'analyse et les visualisations.
